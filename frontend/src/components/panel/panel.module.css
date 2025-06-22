@@ -1,0 +1,10 @@
+.box {
+  position: absolute;
+  float: inline-start;
+  margin-top: 250px;
+  margin-left: 10%;
+  height: 50%;
+  width: 80%;
+  border-radius: 30px;
+  background-color: white;
+}

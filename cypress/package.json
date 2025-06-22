@@ -1,0 +1,14 @@
+{
+  "name": "alt-cypress",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brinzei Lucian",
+  "license": "ISC",
+  "description": "ALT Cypress Automation Framework",
+  "devDependencies": {
+    "cypress": "^14.4.0"
+  }
+}

@@ -1,0 +1,16 @@
+.actions__icons {
+    align-items: center !important;
+  }
+  
+  .actions__icons__delete {
+    margin-right: 30px !important;
+  }
+  
+  .form {
+    display: flex !important;
+    flex-direction: row !important;
+  }
+  
+  .form__item {
+    flex-direction: row !important;
+  }

@@ -1,0 +1,14 @@
+.box {
+  width: 25%;
+  margin-left: 20%;
+  padding-top: 25px;
+}
+
+.container {
+
+}
+
+.item{
+   font-weight: bold !important; 
+}
+

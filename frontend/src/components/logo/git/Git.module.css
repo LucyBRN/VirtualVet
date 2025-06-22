@@ -1,0 +1,10 @@
+.text {
+  display: flex;
+  position: fixed;
+  align-items: center;
+  align-content: center;
+  font-weight: bold;
+  color: white;
+  margin-top: 125px;
+  margin-right: 250px;
+}

@@ -1,0 +1,41 @@
+.label {
+  display: flex;
+  align-items: left;
+  align-content: left;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  color: #1f4172 !important;
+  font-size: large !important;
+}
+
+input{
+  font-size: 15px;
+  border-radius: 30px;
+  padding: 20px;
+  outline: none;
+}
+
+.errorMsg {
+  display: flex;
+  border: 1px #969696 solid;
+  border-radius: 30px;
+  opacity: 0.5;
+  background-color: #969696;
+  font-size: 15px;
+  margin-bottom: 30px !important;
+  margin-left: 25px;
+  text-align: center;
+  justify-content: center;
+  color: red;
+  font-stretch: extra-expanded;
+  font-weight: bold !important;
+  display: none;
+}
+
+input:invalid{
+  color: red;
+}
+
+input:invalid ~ .errorMsg {
+  display: block !important;
+}

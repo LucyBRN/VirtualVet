@@ -1,0 +1,109 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #efeff1;
+  padding: 60px;
+  border-radius: 50px;
+  border: 1px solid black;
+}
+
+.header {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  margin-left: 10px !important;
+  margin-top: 50px;
+  color: #004180;
+  font-size: x-large !important;
+}
+
+.details {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  margin-bottom: 50px !important;
+  margin-left: 10px !important;
+  color: #004180;
+  font-size: large !important;
+}
+
+.input {
+  display: flex;
+  align-items: left;
+  align-content: left;
+  justify-content: left;
+  margin-bottom: 25px !important;
+  width: 500px;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 30em;
+  padding-bottom: 30px;
+}
+
+/*Material UI Button customization*/
+.buttonsLogin {
+  width: 20em;
+  height: 4em;
+  margin-bottom: 25px !important;
+  background-color: #4887c7 !important;
+  border-radius: 17px !important;
+  font-size: large !important;
+  font-weight: normal;
+}
+
+/*Material UI Button customization*/
+.buttonsGoogle {
+  width: 20em;
+  height: 4em;
+  background-color: #4887c7 !important;
+  color: white !important;
+  border-radius: 17px !important;
+  font-size: large !important;
+  font-weight: normal;
+}
+
+.actions {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 15px;
+  margin-bottom: 25px;
+  color: #004180;
+}
+
+.actions :hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.signUpText {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #004180;
+}
+
+.signUpText :hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.checkbox {
+  margin-right: 10px !important;
+}
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: inherit;
+  text-decoration: none;
+  font-weight: normal;
+}

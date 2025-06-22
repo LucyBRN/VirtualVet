@@ -1,0 +1,27 @@
+{
+    "customersTitleFontSize":"36px",
+    "customersTitleFontFamily":"Satoshi, sans-serif",
+    "customersTitleColor":"rgb(255, 255, 255)",
+
+    "activityStatTextFontSize":"40px",
+    "activityStatTextFontFamily":"Satoshi, sans-serif",
+    "activityStatTextColor":"rgb(82, 206, 147)",
+
+    "activityStatDescFontSize":"20px",
+    "activityStatDescFontFamily":"Satoshi, sans-serif",
+    "activityStatDescColor":"rgb(255, 255, 255)",
+
+    "logoSrc":"https://cdn.prod.website-files.com/621780e23ce4730dbde38ef2/654c971b692cc2544a40527c_aeroportosportugal.png",
+    "logoWidth": 110,
+    "logoHeight": 62.8,
+
+    "contactName":"test.user",
+    "contactCompany":"test.company",
+    "contactEmail":"test.email@gmail.com",
+    "contactPhone":"0748 888 888",
+    "contactMessage":"Test Message",
+
+    "facebookTitle": "/AirportLabs",
+    "instagramTitle": "/airportlabspeople",
+    "linkedinTitle":"/company/airportlabs/"
+}
